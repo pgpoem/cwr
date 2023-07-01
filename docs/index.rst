@@ -5,10 +5,10 @@
    :maxdepth: 2
    :caption: 编程相关
 
-   program/python/index
+   notes/program/python/index
 
 .. toctree::
    :maxdepth: 2
    :caption: 其他
 
-   other/index
+   notes/other/index
